@@ -1,0 +1,22 @@
+.cabecalho{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #6C89D2;
+    color: #FFFFFF;
+    font-family: 'Inter', sans-serif;
+    font-size: 24px;
+    font-weight: 700;
+    border-radius: 50px 0;
+    padding: 0 36px;
+}
+
+.logo {
+    width: 210px;
+    height: 88px;
+}
+
+.item-lista-logo{
+    display: inline-block; 
+    margin: 24px;
+}
